@@ -1,2 +1,17 @@
+# build output
+dist
+
+# stuff
 .parcel-cache
 netlify
+
+# dependenices
+node_modules
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS-specific files
+.DS_Store
